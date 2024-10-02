@@ -10,7 +10,7 @@ ul {
   list-style-type: none;
 }
 
-.headr-logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -19,7 +19,7 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.headrspan {
+.headerspan {
   color: #2e2f42;
 }
 .navlink {
@@ -47,7 +47,7 @@ ul {
 .contactlink:focus {
   color: #404bbf;
 }
-.sectn-motto {
+.section-motto {
   background-color: #2e2f42;
 }
 .order-btn {
@@ -63,7 +63,7 @@ ul {
 .order-btn:focus {
   background-color: #404bbf;
 }
-.sectn-team {
+.section-team {
   background-color: #f4f4fd;
 }
 .team-cards-li {
@@ -75,7 +75,7 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.hdrone {
+.headerone {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -83,7 +83,7 @@ ul {
   text-align: center;
   color: #fff;
 }
-.hdrtwo {
+.headertwo {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -92,17 +92,17 @@ ul {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.hdrthree {
+.headerthree {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.footr {
+.footer {
   background-color: #2e2f42;
 }
-.footr-logo {
+.footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -111,10 +111,10 @@ ul {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.footrspan {
+.footerspan {
   color: #f4f4fd;
 }
-.footr-note {
+.footer-note {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
